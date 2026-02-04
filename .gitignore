@@ -1,4 +1,6 @@
-dist/
 build/
+dist/
+__pycache__/
 *.exe
 *.pkg
+*.log
